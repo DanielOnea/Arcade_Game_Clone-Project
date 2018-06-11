@@ -4,10 +4,11 @@ The purpose of this project is to showcase a student's Object-Oriented JavaScrip
 This project is a version of the famous Frogger game but leaves complete freedom to creativity and fun.
 
 ## Source Code
-The repository on git hub can be found here https://github.com/DanielOnea/Arcade_Game_Clone-Project
+The repository on github can be found here https://github.com/DanielOnea/Arcade_Game_Clone-Project
+You can clone the project, or download it and open it into your desktop.
 
 ## How to run
-Download the repo and open index.html file.  
+Download the repo and open index.html file into your browser.  
 Or you can acces the LIVE version here: https://danielonea.github.io/Arcade_Game_Project/
 
 ## Game Information
