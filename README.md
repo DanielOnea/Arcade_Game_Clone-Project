@@ -3,10 +3,10 @@
 The purpose of this project is to showcase a student's Object-Oriented JavaScript and HTML5 Canvas skills.
 This project is a version of the famous Frogger game but leaves complete freedom to creativity and fun.
 
-##Source Code
+## Source Code
 The repository on git hub can be found here https://github.com/DanielOnea/Arcade_Game_Clone-Project
 
-##How to run?
+## How to run
 Download the repo and open index.html file.  
 Or you can acces the LIVE version here: https://danielonea.github.io/Arcade_Game_Clone-Project/
 
