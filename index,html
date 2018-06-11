@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Arcade Game Clone</title>
+  <!-- build:css style.min.css -->
+  <link rel="stylesheet" href="css/style.css">
+  <!-- endbuild -->
+</head>
+<body>
+
+  <main>
+  </main>
+
+  <!-- build:js app.min.js -->
+  <script src="js/resources.js"></script>
+  <script src="js/utils.js"></script>
+  <script src="js/engine.js"></script>
+  <script src="js/app.js"></script>
+  <!-- endbuild -->
+</body>
+</html>
