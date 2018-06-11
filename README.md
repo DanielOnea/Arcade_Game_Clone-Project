@@ -8,7 +8,7 @@ The repository on git hub can be found here https://github.com/DanielOnea/Arcade
 
 ## How to run
 Download the repo and open index.html file.  
-Or you can acces the LIVE version here: https://danielonea.github.io/Arcade_Game_Clone-Project/
+Or you can acces the LIVE version here: https://danielonea.github.io/Arcade_Game_Project/
 
 ## Game Information
 The object of the game is to get as many points as possible!
